@@ -1,0 +1,16 @@
+[
+    {
+        "description": "work",
+        "amount": "100",
+        "action": "Income",
+        "expense": "Income",
+        "time": "2024-05-05 18:03"
+    },
+    {
+        "description": "asdsad",
+        "amount": "123",
+        "action": "Spent",
+        "expense": "Entertainment",
+        "time": "2024-05-20 18:21"
+    }
+]

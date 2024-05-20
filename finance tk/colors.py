@@ -1,0 +1,9 @@
+BACKGROUND_COLOR = "#1b1a1a"
+LETTERS_FONT = ("Ubuntu", 12, "bold")
+LETTERS_FONT_TABS = ("Ubuntu", 10, "bold")
+LETTERS_FONT_TRAN = ("Ubuntu", 8, "bold")
+NUMBERS_FONT = ("Oswald", 13, "bold")
+MAIN_COLOR = "#0092ff"
+LETTERS_COLOR = "#000e7e"
+LETTERS_COLOR_TABS= "#018eff"
+NUMBERS_COLOR = "#ffffff"
